@@ -35,7 +35,7 @@ typedef enum {
   kDeviceTypeLidarMid40 = 1,   /**< Mid-40. */
   kDeviceTypeLidarTele = 2,    /**< Tele. */
   kDeviceTypeLidarHorizon = 3  /**< Horizon. */
-} DeviceType;
+} LivoxDeviceType;
 
 /** Lidar state. */
 typedef enum {
